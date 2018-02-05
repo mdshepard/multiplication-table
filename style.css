@@ -1,0 +1,12 @@
+body {
+    background-color: lightskyblue;
+    font-family: Verdana;
+}
+td:first-child {
+    background-color: yellow;
+    font-weight: bold;
+}
+tr:first-child {
+    background-color:yellow;
+    font-weight: bold;
+}
